@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+#head2 {
+  color: brown;
+  text-align: center;
+}
+cite{
+  color:red;
+}
+h2{
+  color:magenta;
+  text-align:center
+}
+
+p {
+  color:blue;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+
+p1 {
+  color:green;
+  font-family: verdana;
+  font-size: 15px;
+}
+li{
+  color:red;
+  
+}
